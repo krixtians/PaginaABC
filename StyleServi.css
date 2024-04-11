@@ -1,0 +1,16 @@
+body {
+  font-family: 'Raleway', sans-serif; /* Raleway como primer opción, y fallback a una fuente sans-serif genérica */
+  background-image: url(/IMG/Fondos/fondo.jpg);  /* Imagen de fondo */
+  background-size: cover; /* Cubre todo el tamaño del contenedor */
+  background-repeat: no-repeat; /* No se repite la imagen */
+  line-height: 4em;
+  margin: 0cm;
+  }
+header{  
+  background-color: black;
+  color:  white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  }
+
